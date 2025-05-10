@@ -1,4 +1,4 @@
-# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+# EXNO-5  DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
@@ -267,9 +267,6 @@ plt.pie(slices,labels=activities,colors=colors,startangle=90,shadow=True,explode
 plt.legend()
 ```
 ![image](https://github.com/user-attachments/assets/f07f5b09-6587-4c76-b2f0-065f2be38e89)
-
-
-
 
 
 # Result:
